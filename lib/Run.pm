@@ -14,7 +14,7 @@ sub new
 	};
 
 	bless $self, $class_name;
-	
+
 	return $self;
 }
 
