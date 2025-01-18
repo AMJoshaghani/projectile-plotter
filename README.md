@@ -27,6 +27,3 @@ A very-simple micro-framework with three programming languages included demonstr
 ## Screenshots
 ![img-1](https://s8.uupload.ir/files/screenshot_from_2023-07-19_20-06-15_02np.png)
 ![img-2](https://s8.uupload.ir/files/screenshot_from_2023-07-19_20-05-36_148t.png)
-
-## Bugs and Suggs
-Sure it's not flawless! Do you know a way for making it better? so why are you waiting! contact me @ https://amjoshaghani.ir
